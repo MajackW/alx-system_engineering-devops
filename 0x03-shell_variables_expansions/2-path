@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e 'export PATH="$PATH:/action"\nsource ~/ .bashrc' | bash
